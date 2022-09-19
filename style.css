@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  background: url(phoenix2.url) no-repeat;
+  background-size: cover;
+   height: 100vh; 
+}
+
+
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+.barlist {
+  text-align: center;
+}
+
+.firstsection {
+  background-color: rgb(251, 238, 231);
+  height: 400px;
+}
+.searchbtn {
+  padding: 6px 10px;
+  vertical-align: middle;
+  background-color: blueviolet;
+}
+
+.secondsection {
+  background-color: rgb(250, 229, 209);
+  height: 400px;
+}
+.thirdsection {
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 90%;
+  margin: auto;
+}
+
+.stuff {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(0, 0, 0);
+  max-width: 80%;
+  margin: auto;
+  height: 80%;
+}
+
+
