@@ -3,10 +3,9 @@
   padding: 0;
 }
 
-.wrapper {
-  background: url(phoenix2.url) no-repeat;
+body{
+  background: url(phoenix.jpg) no-repeat;
   background-size: cover;
-   height: 100vh; 
 }
 
 
